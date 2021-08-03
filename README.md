@@ -1,3 +1,1 @@
-# opencv_line_follower
-OpenCV based line follower robot for Raspberry Pi
-
+# My notebook submissions for Kaggle
